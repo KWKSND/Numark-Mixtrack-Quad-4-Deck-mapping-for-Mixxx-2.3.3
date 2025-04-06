@@ -17,6 +17,11 @@
 - I had not worked with midi or javascript, still more done in the last week or so than all you in 12 years ROFL
 - I hope many people get to enjoy this wonderful controller for years to come without being robbed by VDJ
 -
+- Updated on 3/11/2025 by DJ KWKSND (changed a bunch of code to bring it up to date and stop error spam
+- Due to the massive amount of changes i decided to drop support for the basic script. 
+- Yes there is still some errors on startup and during jogwheel use i cant fix due to very short timers
+- but the script works perfectly and the error spam wall in console is mostly gone)
+- 
 - Whats new?
 -  There is now 2 versions, Basic (the old easy controls), and Complex (more like the manual describes)
 -  Incorrectly mapped buttons were found and fixed

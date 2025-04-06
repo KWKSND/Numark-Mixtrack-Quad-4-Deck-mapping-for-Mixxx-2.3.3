@@ -1,4 +1,4 @@
-- Numark Mixtrack Quad 4 Deck Mapping and Script for Mixxx 2.3.3 Complex By DJ KWKSND
+- Numark Mixtrack Quad 4 Deck Mapping and Script for Mixxx 2.3.3 & Complex for 2.4 By DJ KWKSND
 - Based on Mixxx default controller settings, Numark Mixtrack Mapping, and Numark Mixtrack Pro Script
 -
 - 1/11/2010 - v0.1 - Matteo <matteo@magm3.com>

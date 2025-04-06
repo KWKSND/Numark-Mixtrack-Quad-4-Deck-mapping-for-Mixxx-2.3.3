@@ -23,7 +23,8 @@
 - but the script works perfectly and the error spam wall in console is mostly gone)
 - 
 - Whats new?
--  There is now 2 versions, Basic (the old easy controls), and Complex (more like the manual describes)
+-  There is now 3 versions, Basic (the old easy controls), and Complex (more like the manual describes) for 2.3.3
+-  And also a new updated for 2025 version of the complex scripts for Mixxx 2.4 
 -  Incorrectly mapped buttons were found and fixed
 -  Samples S1 - S3 repeat as you tap the pad, S4 starts / stops the sample, great for drum loops set on repeat
 -  FX123 & Filter knob speed is fixed

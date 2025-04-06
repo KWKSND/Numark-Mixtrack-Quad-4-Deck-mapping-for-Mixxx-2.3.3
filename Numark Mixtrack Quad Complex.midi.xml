@@ -1613,7 +1613,7 @@
                 <status>0x91</status>
                 <midino>0x53</midino>
                 <on>0x07</on>
-                <off>0x0B</off>
+                <off>0x08</off>
                 <maximum>0.1</maximum>
             </output>
             <output>
@@ -1622,7 +1622,7 @@
                 <status>0x91</status>
                 <midino>0x54</midino>
                 <on>0x07</on>
-                <off>0x0A</off>
+                <off>0x08</off>
                 <maximum>0.1</maximum>
             </output>
             <output>
@@ -1737,7 +1737,7 @@
                 <status>0x92</status>
                 <midino>0x53</midino>
                 <on>0x07</on>
-                <off>0x0B</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
@@ -1746,7 +1746,7 @@
                 <status>0x92</status>
                 <midino>0x54</midino>
                 <on>0x07</on>
-                <off>0x0A</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
@@ -1861,7 +1861,7 @@
                 <status>0x93</status>
                 <midino>0x53</midino>
                 <on>0x07</on>
-                <off>0x0B</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
@@ -1870,7 +1870,7 @@
                 <status>0x93</status>
                 <midino>0x54</midino>
                 <on>0x07</on>
-                <off>0x0A</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
@@ -1985,7 +1985,7 @@
                 <status>0x94</status>
                 <midino>0x53</midino>
                 <on>0x07</on>
-                <off>0x0B</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
@@ -1994,7 +1994,7 @@
                 <status>0x94</status>
                 <midino>0x54</midino>
                 <on>0x07</on>
-                <off>0x0A</off>
+                <off>0x08</off>
                 <maximum>0</maximum>
             </output>
             <output>
